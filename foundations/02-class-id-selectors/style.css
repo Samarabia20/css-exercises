@@ -1,16 +1,16 @@
 .one{
-  background-color: rgb(217, 115, 151);
+  background-color: #ffb6c1;
   font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-.red{
-  color: blue;
+#red{
+  color: rgb(43, 43, 179);
   font-size: 36px;
 }
-#two{
+.two{
 font-size: 24px;
 }
-.center{
-  background-color: rgb(88, 196, 88);
+#center{
+  background-color: hsl(152,100%,51%);
   font-size: 24px;
   font-weight: bolder;
   color: black;
