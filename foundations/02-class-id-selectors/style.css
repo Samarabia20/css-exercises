@@ -1,17 +1,13 @@
-p {
+.one{
   background-color: rgb(217, 115, 151);
   font-family: Verdana, DejaVu Sans, sans-serif;
-}
-div{
-  color: blue;
-  font-size: 24px;
 }
 .red{
   color: blue;
   font-size: 36px;
 }
-.two{
-  font-size: 24px;
+#two{
+font-size: 24px;
 }
 .center{
   background-color: rgb(88, 196, 88);
